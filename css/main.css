@@ -1,0 +1,29 @@
+ul {
+	background-color: purple;
+	margin: 10px;
+	padding: 5px;
+}
+
+li {
+	background-color: yellow;
+	display: inline-block;
+	padding: 12px;
+} 
+
+div {
+	float: left;
+	width: 50%;
+}
+
+div.box img {
+	border: 1px solid black;
+	padding: 3px;
+	margin: 5px;
+}
+
+.fox p {
+	background-color: blue;
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid;
+}
